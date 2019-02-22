@@ -15,7 +15,7 @@ git config --gloabal
 # 常用命令
 ### 文件名/路径 ###
 git status ###
-git statua 
+git status
 git log ###
 git log
 git reflog
